@@ -1,5 +1,13 @@
 # Norte — Dashboard administrativo
 
+[![Status](https://img.shields.io/badge/status-concluído-7165e8)](https://rbc-imktnet.github.io/norte-dashboard/) [![React](https://img.shields.io/badge/React-TypeScript-3178c6)](https://react.dev/)
+
+![Demonstração do Norte](docs/preview.svg)
+
+## Demonstração online
+
+**[Abrir Norte Dashboard](https://rbc-imktnet.github.io/norte-dashboard/)**
+
 Dashboard administrativo responsivo desenvolvido com React e TypeScript para visualizar métricas de vendas, pedidos, canais de aquisição e atividades operacionais.
 
 ## Funcionalidades
