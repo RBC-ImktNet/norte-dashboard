@@ -1,5 +1,7 @@
 # Norte — Dashboard administrativo
 
+[![Deploy](https://github.com/RBC-ImktNet/norte-dashboard/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/RBC-ImktNet/norte-dashboard/actions/workflows/deploy-pages.yml) [![Licença: MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-yellow.svg)](LICENSE)
+
 [![Status](https://img.shields.io/badge/status-concluído-7165e8)](https://rbc-imktnet.github.io/norte-dashboard/) [![React](https://img.shields.io/badge/React-TypeScript-3178c6)](https://react.dev/)
 
 ![Demonstração do Norte](docs/preview.svg)
@@ -60,3 +62,11 @@ src/
 ## Dados
 
 Os dados são demonstrativos e ficam definidos no próprio front-end. O projeto pode ser integrado posteriormente a uma API ou banco de dados sem alterar a estrutura visual principal.
+
+## Compatibilidade
+
+Interface responsiva desenvolvida para navegadores modernos, em dispositivos móveis e desktop.
+
+## Licença
+
+Distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE).
